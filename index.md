@@ -2,9 +2,9 @@
 
 ---
 
-### Category Name 1 
+### Data Analysis
 
-[Project 1 Title](/sample_page)
+[Project 1 Title]((https://medium.com/@johnhagaman21/cinema-by-the-numbers-a-movie-profitability-analysis-b1a9fdecaceb))
 <img src="images/dummy_thumbnail.jpg?raw=true"/>
 
 ---
