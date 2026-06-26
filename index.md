@@ -4,7 +4,7 @@
 
 ### Data Analysis
 
-[Project 1 Title](https://medium.com/@johnhagaman21/cinema-by-the-numbers-a-movie-profitability-analysis-b1a9fdecaceb)
+[Cinema By The Numbers: SQL and PowerBi Visualization](https://medium.com/@johnhagaman21/cinema-by-the-numbers-a-movie-profitability-analysis-b1a9fdecaceb)
 <img src="https://github.com/JHagaman/jhagaman.github.io/blob/master/images/dashboard1.PNG?raw=true"/>
 
 ---
