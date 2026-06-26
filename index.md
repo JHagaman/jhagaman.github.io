@@ -19,7 +19,7 @@
 
 ### Certifications
 
-- [Google Data Analytics Professional Certificate](https://www.credly.com/badges/1285dc7a-2602-4db6-98ff-0a4f0b1dec44/public_url)
+- [Google Data Analytics Professional Certificate](https://coursera.org/share/6c1b97e99dbc2f258c3bb6521b16cb73)
 - [Project 2 Title](http://example.com/)
 - [Project 3 Title](http://example.com/)
 - [Project 4 Title](http://example.com/)
