@@ -4,16 +4,13 @@
 
 ### Data Analysis
 
+[Online Retail Sales Analysis: SQL and Power BI Visualization](https://medium.com/@johnhagaman21/online-retail-sales-an-exploratory-data-analysis-9de143739197)
+<img src="images/Dash1.PNG"/>
+
+---
+
 [Cinema By The Numbers: SQL and Power BI Visualization](https://medium.com/@johnhagaman21/cinema-by-the-numbers-a-movie-profitability-analysis-b1a9fdecaceb)
 <img src="images/dashboard1.PNG"/>
-
----
-[Online Retail Sales Analysis: SQL and Power BI Visualization](https://medium.com/@johnhagaman21/online-retail-sales-an-exploratory-data-analysis-9de143739197)
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
-
----
-[Project 3 Title](http://example.com/)
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
 
 ---
 
