@@ -4,11 +4,11 @@
 
 ### Data Analysis
 
-[Cinema By The Numbers: SQL and PowerBi Visualization](https://medium.com/@johnhagaman21/cinema-by-the-numbers-a-movie-profitability-analysis-b1a9fdecaceb)
+[Cinema By The Numbers: SQL and Power BI Visualization](https://medium.com/@johnhagaman21/cinema-by-the-numbers-a-movie-profitability-analysis-b1a9fdecaceb)
 <img src="images/dashboard1.PNG"/>
 
 ---
-[Project 2 Title](/pdf/sample_presentation.pdf)
+[Online Retail Sales Analysis: SQL and Power BI Visualization](https://medium.com/@johnhagaman21/online-retail-sales-an-exploratory-data-analysis-9de143739197)
 <img src="images/dummy_thumbnail.jpg?raw=true"/>
 
 ---
