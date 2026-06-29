@@ -4,7 +4,7 @@
 
 ### Data Analysis
 
-[Online Retail Sales Analysis: SQL and Power BI Visualization](https://medium.com/@johnhagaman21/online-retail-sales-an-exploratory-data-analysis-9de143739197)
+[Uncovering the Customer Loyalty Gap in Online Retail](https://medium.com/@johnhagaman21/online-retail-sales-an-exploratory-data-analysis-9de143739197)
 <img src="images/Dash1.PNG"/>
 
 ---
