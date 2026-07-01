@@ -17,7 +17,7 @@
 ### Certifications
 
 - [Google Data Analytics Professional Certificate](https://coursera.org/share/6c1b97e99dbc2f258c3bb6521b16cb73)
-- [Project 2 Title](http://example.com/)
+- [Microsoft Certified: Power BI Data Analyst Associate](https://learn.microsoft.com/api/credentials/share/en-us/JohnHagaman-5433/833F41722EFD80B5?sharingId=A35F0C29B4AF09BF)
 - [Project 3 Title](http://example.com/)
 - [Project 4 Title](http://example.com/)
 - [Project 5 Title](http://example.com/)
