@@ -4,6 +4,11 @@
 
 ### Data Analysis
 
+[Employee Attrition Analysis: Predict Employees at Risk](https://medium.com/@johnhagaman21/online-retail-sales-an-exploratory-data-analysis-9de143739197](https://medium.com/@johnhagaman21/employee-attrition-analysis-predict-employees-at-risk-aa74a8af2662)
+<img src="images/Dash1.PNG"/>
+
+---
+
 [Uncovering the Customer Loyalty Gap in Online Retail](https://medium.com/@johnhagaman21/online-retail-sales-an-exploratory-data-analysis-9de143739197)
 <img src="images/Dash1.PNG"/>
 
