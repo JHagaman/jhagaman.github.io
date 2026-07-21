@@ -4,8 +4,8 @@
 
 ### Data Analysis
 
-[Employee Attrition Analysis: Predict Employees at Risk](https://medium.com/@johnhagaman21/online-retail-sales-an-exploratory-data-analysis-9de143739197](https://medium.com/@johnhagaman21/employee-attrition-analysis-predict-employees-at-risk-aa74a8af2662)
-<img src="images/Dash1.PNG"/>
+[Employee Attrition Analysis: Predict Employees at Risk](https://medium.com/@johnhagaman21/employee-attrition-analysis-predict-employees-at-risk-aa74a8af2662)
+<img src="img width="1452" height="814" alt="image" src="https://github.com/user-attachments/assets/b9e75347-85f9-4a7e-acc6-df38036855ce"/>
 
 ---
 
